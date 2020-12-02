@@ -2,6 +2,9 @@
 
 Plataforma voto electrónico educativa
 =====================================
+[![Build Status](https://travis-ci.org/Organizacion-Enruiq/egc20D01.svg?branch=master)](https://travis-ci.org/Organizacion-Enruiq/egc20D01)
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/63c87f7af907474dac27fa9479294cae)](https://app.codacy.com/gh/Organizacion-Enruiq/egc20D01?utm_source=github.com&utm_medium=referral&utm_content=Organizacion-Enruiq/egc20D01&utm_campaign=Badge_Grade)
 
 El objetivo de este proyecto es implementar una plataforma de voto
 electrónico seguro, que cumpla una serie de garantías básicas, como la
